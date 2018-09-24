@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica1_PRM</string>
+    <string name="main_name">Name</string>
+    <string name="main_txtSurname">Surname</string>
+    <string name="main_polite">Polite</string>
+    <string name="main_button_greet">Greet</string>
+    <string name="main_button_reset">Reset</string>
+    <string name="main_polite_greet" formatted="true">Welcome Mr/Mrs %1$s %2$s</string>
+    <string name="main_no_polite_greet" formatted="true">Hi %1$s %2$s!</string>
+    <string name="main_empty"></string>
+</resources>
